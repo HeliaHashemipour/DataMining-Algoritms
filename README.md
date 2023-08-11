@@ -2,7 +2,7 @@
 
 > Spring 2023
 
-## Directories
+## Homeworks
 
 > Directory-1 [dir 1](https://github.com/HeliaHashemipour/DataMining-Algoritms/tree/main/1).
 
